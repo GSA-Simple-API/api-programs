@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Health Awareness Program",
+        "tags": "health, education, diet",
+        "description": "This is the description of the program and what it offers to the public.",
+        "url": "http://example.com",
+        "state": "Washington",
+        "phone": "555-523-2233",
+        "email": "healthawareness@agency.gov"
+    },
+    {
+        "id": "2",
+        "name": "Child Nutrition Program",
+        "tags": "nutrition, outreach, diet",
+        "description": "This is the description of the program and what it offers to the public.",
+        "url": "http://example.com",
+        "state": "California",
+        "phone": "555-523-2233",
+        "email": "childnutrition@agency.gov"
+    },
+    {
+        "id": "3",
+        "name": "Senior Outreach Program",
+        "tags": "senior, outreach, education",
+        "description": "This is the description of the program and what it offers to the public.",
+        "url": "http://example.com",
+        "state": "Ohio",
+        "phone": "555-523-2233",
+        "email": "seniors@agency.gov"
+    }
+]
